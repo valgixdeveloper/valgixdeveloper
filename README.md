@@ -1,16 +1,25 @@
-### Hi there 👋
+### About Me: 
+I love coding and do a lot of things for it :3
 
-<!--
-**valgixdeveloper/valgixdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competitions: 🥇
 
-Here are some ideas to get you started:
+### Algorithms [CodeWars](https://codewars.com/valgixdeveloper/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working on: 🚀
+
+- [Valgix](https://github.com/valgixhub) - Super easiest Wallet, P2P Marketplace & Secure Messenger
+
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C | JS | Solidity |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescipt/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
